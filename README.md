@@ -16,12 +16,6 @@ $ npx create-cdk-app -t <template-name> <project-dir>
 $ yarn create cdk-app -t <template-name> <project-dir>
 ```
 
-**Manual**
-
-```bash
-$
-```
-
 To learn more about `create-cdk-app`, view it's [documentation](https://github.com/cdk-tools/create-cdk-app).
 
 ## Contributing
