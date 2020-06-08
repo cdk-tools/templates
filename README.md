@@ -7,13 +7,13 @@ This repository contains example [CDK apps]() to be generated with [create-cdk-a
 **NPM**
 
 ```bash
-$ npx create-cdk-app <template-name>
+$ npx create-cdk-app -t <template-name> <project-dir>
 ```
 
 **Yarn**
 
 ```bash
-$ yarn create cdk-app <template-name>
+$ yarn create cdk-app -t <template-name> <project-dir>
 ```
 
 **Manual**
@@ -22,7 +22,7 @@ $ yarn create cdk-app <template-name>
 $
 ```
 
-To learn more about `create-cdk-app`, virw it's [documentation]().
+To learn more about `create-cdk-app`, view it's [documentation](https://github.com/cdk-tools/create-cdk-app).
 
 ## Contributing
 
